@@ -208,7 +208,7 @@
           <dmn:text>-</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_C45C4AC2-A216-4320-82E6-533EAFEFEA5D">
-          <dmn:text>"Diskspace"</dmn:text>
+          <dmn:text>"Diskspace invalid"</dmn:text>
         </dmn:outputEntry>
         <dmn:outputEntry id="_BC54A68D-0A25-4C4B-B2FF-CBFB5E8FF4AD">
           <dmn:text>false</dmn:text>
@@ -228,7 +228,7 @@
           <dmn:text>"Invalid"</dmn:text>
         </dmn:inputEntry>
         <dmn:outputEntry id="_44990CD0-D1DF-4FFD-8F3B-F2A2035124A2">
-          <dmn:text>"Memory"</dmn:text>
+          <dmn:text>"Memory invalid"</dmn:text>
         </dmn:outputEntry>
         <dmn:outputEntry id="_1A84EC92-E115-443E-9BA2-0978CED78617">
           <dmn:text>false
@@ -267,7 +267,7 @@
             <kie:width>100</kie:width>
             <kie:width>100</kie:width>
             <kie:width>100</kie:width>
-            <kie:width>100</kie:width>
+            <kie:width>150</kie:width>
             <kie:width>100</kie:width>
             <kie:width>100</kie:width>
           </kie:ComponentWidths>
