@@ -145,9 +145,9 @@
       </dmn:rule>
     </dmn:decisionTable>
   </dmn:decision>
-  <dmn:decision id="_14D27EA0-BC84-4E42-BFDB-F4CB42ADB228" name="Validatiaion Result">
+  <dmn:decision id="_14D27EA0-BC84-4E42-BFDB-F4CB42ADB228" name="Validation Result">
     <dmn:extensionElements/>
-    <dmn:variable id="_26E0DF87-082F-45AD-94FE-D38A913D0C1A" name="Validatiaion Result" typeRef="ValidationResult"/>
+    <dmn:variable id="_26E0DF87-082F-45AD-94FE-D38A913D0C1A" name="Validation Result" typeRef="ValidationResult"/>
     <dmn:informationRequirement id="_3DF91B85-5AA8-4EA8-892E-E4ACE0ED47D8">
       <dmn:requiredDecision href="#_B29F4038-B1F5-4A81-B867-0D11F99C4B86"/>
     </dmn:informationRequirement>
@@ -279,7 +279,7 @@
           <dmndi:StrokeColor red="0" green="0" blue="0"/>
           <dmndi:FontColor red="0" green="0" blue="0"/>
         </dmndi:DMNStyle>
-        <dc:Bounds x="294.29906542056074" y="285" width="100" height="50"/>
+        <dc:Bounds x="297.29906542056074" y="271" width="100" height="50"/>
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNShape id="dmnshape-drg-_DE1FF070-0D6F-4421-A98B-92DDCF5E5E2A" dmnElementRef="_DE1FF070-0D6F-4421-A98B-92DDCF5E5E2A" isCollapsed="false">
@@ -319,15 +319,15 @@
         <dmndi:DMNLabel/>
       </dmndi:DMNShape>
       <dmndi:DMNEdge id="dmnedge-drg-_E2236F1D-ECC5-4C4E-9EF3-11EAE3E9FBA9" dmnElementRef="_E2236F1D-ECC5-4C4E-9EF3-11EAE3E9FBA9">
-        <di:waypoint x="344.29906542056074" y="310"/>
+        <di:waypoint x="347.29906542056074" y="296"/>
         <di:waypoint x="177" y="195"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_CBE9FAD9-2F28-4709-8757-5BAE16176CB5" dmnElementRef="_CBE9FAD9-2F28-4709-8757-5BAE16176CB5">
-        <di:waypoint x="344.29906542056074" y="310"/>
+        <di:waypoint x="347.29906542056074" y="296"/>
         <di:waypoint x="347" y="195"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_4AE98D1A-F730-4605-BEA5-21494102D1A8" dmnElementRef="_4AE98D1A-F730-4605-BEA5-21494102D1A8">
-        <di:waypoint x="344.29906542056074" y="310"/>
+        <di:waypoint x="347.29906542056074" y="296"/>
         <di:waypoint x="513" y="195"/>
       </dmndi:DMNEdge>
       <dmndi:DMNEdge id="dmnedge-drg-_3DF91B85-5AA8-4EA8-892E-E4ACE0ED47D8" dmnElementRef="_3DF91B85-5AA8-4EA8-892E-E4ACE0ED47D8">
